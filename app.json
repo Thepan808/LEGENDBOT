@@ -35,7 +35,7 @@
     "ABUSE": {
       "description": "ON or OFF",
       "value": "ON",
-      "required" :false
+      "required" : true
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
@@ -46,6 +46,16 @@
       "description": "Set Ur Group Username",
       "value": "@Its_LegendBot",
       "required": false
+    },
+    "EXTRA_PLUGIN": {
+      "description": "ON ya OFF",
+      "value": "ON",
+      "required": true
+    },
+    "ASSISTANT": {
+      "description": "ON or OFF",
+      "value": "ON",
+      "required": true
     },
     "BOY_OR_GIRL": {
       "description": "Set If U are Boy Or Girl",
@@ -163,7 +173,7 @@
     },
     "PING_PIC": {
       "description": "Put Telegraph Link of any Pic Or Video",
-      "value": "",
+      "value": "https://te.legra.ph/file/ace5feae5b1ac8ea262ed.jpg",
       "required": false
     },
     "EMOJI_IN_HELP1": {
